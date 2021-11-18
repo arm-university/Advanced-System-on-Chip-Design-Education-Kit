@@ -1,0 +1,28 @@
+;**************************************************
+; Copyright (c) 2012-2013 ARM Ltd.  All rights reserved.
+;**************************************************
+
+LOAD 0x80000000  0x00100000
+{
+  EXEC +0
+  {
+    startup.o(StartUp, +FIRST)
+    * (+RO)
+    * (+RW,+ZI)
+  }
+
+  ; App heap for all CPUs
+  ARM_LIB_HEAP  +0 ALIGN 8 EMPTY 0xA0000 {}
+
+  ; App stacks for all CPUs - see startup.s
+  ARM_LIB_STACK +0 ALIGN 8 EMPTY 4*0x1000 {}
+
+  ; IRQ stacks for all CPUs - see startup.s
+  IRQ_STACKS    +0 ALIGN 8 EMPTY 4*256 {}
+
+  ; 1MB of Pagetables
+  PAGETABLES 0x80500000 EMPTY 0x00100000 {}
+  
+  ; 1MB Frame Buffer
+  FRAMEBUFFER 0x80600000 EMPTY 0x00100000 {}
+}
