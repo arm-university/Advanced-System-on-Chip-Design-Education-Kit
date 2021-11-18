@@ -49,5 +49,6 @@ Arm is working actively with our partners, standards bodies, and the wider ecosy
 
 * When introducing the AMBA AXI Protocols, we will use the term ‘Manager’ instead of ‘Master’ and ‘Subordinate’ instead of ‘Slave’. 
 * When introducing the architecture, we will use the term ‘Requester’ instead of ‘Master’ and ‘Completer’ instead of ‘Slave’. 
+
  
 Contact us at education@arm.com with questions or comments about this course. You can also report non-inclusive and offensive terminology usage in Arm content at terms@arm.com.
