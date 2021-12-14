@@ -15,7 +15,7 @@ Our Advanced System on Chip Design Education Kit equips your students with the s
  ## Kit specification:
 
 * A full set of lecture slides, ready for use in a typical 10-14-week undergraduate course (full syllabus below).
-* Software licenses from Arm
+* Recent updates to the EdKit include a dedicated module on an overview of HDMI for input and output and refreshed lab exercises based on the Zybo Z7-10 board.
 * Lab manual with solutions for faculty. Labs are based on low-cost yet powerful Arm-based hardware platforms donated by partners (subject to availability). 
 * **Prerequisites:** Basics of hardware description language (Verilog or VHDL), basic C and assembly programming.
 
