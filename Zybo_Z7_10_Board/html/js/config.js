@@ -24,17 +24,17 @@ var index =
       {
         "column": "modules",
         "name": "Module 1: Introduction to Arm-based System on Chip Design",
-        "link": "contents/Module_1/Presentation1.pptx"
+        "link": "contents/Module 01_Introduction to Arm-based System on Chip Design/Presentation1.pptx"
       },
 	  {
         "column": "exercises",
         "name": "Quiz 1",
-        "link": "contents/Module_1/Quiz1.docx"
+        "link": "contents/Module 01_Introduction to Arm-based System on Chip Design/Quiz1.docx"
       },
 	  {
         "column": "exercises",
         "name": "Getting Started Guide",
-        "link": "contents/Module_1/Getting_Started.docx"
+        "link": "contents/Module 01_Introduction to Arm-based System on Chip Design/Getting_Started.docx"
       }
     ],
 	
@@ -43,12 +43,12 @@ var index =
       {
         "column": "modules",
         "name": "Module 2: Arm and Arm Processors",
-        "link": "contents/Module_2/Presentation2.pptx"
+        "link": "contents/Module 02_Arm and Arm Processors/Presentation2.pptx"
       },
 	  {
         "column": "exercises",
         "name": "Quiz 2",
-        "link": "contents/Module_2/Quiz2.docx"
+        "link": "contents/Module 02_Arm and Arm Processors/Quiz2.docx"
       }
     ],
 	
@@ -57,7 +57,7 @@ var index =
       {
         "column": "modules",
         "name": "Module 3: Armv7-A/R Instruction Set Architecture Overview Part 1",
-        "link": "contents/Module_3/Presentation3.pptx"
+        "link": "contents/Module 03_Armv7-AR Instruction Set Architecture Overview_part 1/Presentation3.pptx"
       }
     ],
 	
@@ -66,23 +66,23 @@ var index =
       {
         "column": "modules",
         "name": "Module 4: Armv7-A/R Instruction Set Architecture Overview Part 2",
-        "link": "contents/Module_4/Presentation4.pptx"
+        "link": "contents/Module 04_Armv7-AR Instruction Set Architecture Overview Part 2/Presentation4.pptx"
       },
 	  {
         "column": "exercises",
         "name": "Quiz 3_4",
-        "link": "contents/Module_4/Quiz3_4.docx"
+        "link": "contents/Module 04_Armv7-AR Instruction Set Architecture Overview Part 2/Quiz3_4.docx"
       },
 	  {
         "column": "exercises",
         "name": "Lab 4: Programming a processor using Arm Assembly Language and C",
-        "link": "contents/Module_4/Lab4_manual.docx"
+        "link": "contents/Module 04_Armv7-AR Instruction Set Architecture Overview Part 2/Lab4_manual.docx"
       },
 
       {
         "column": "files",
         "name": "Lab 4 Files",
-        "link": "contents/Module_4/lab_file/"
+        "link": "contents/Module 04_Armv7-AR Instruction Set Architecture Overview Part 2/lab_file"
       }
     ],
 	
@@ -91,12 +91,12 @@ var index =
       {
         "column": "modules",
         "name": "Module 5: Arm Cortex-A9 processor",
-        "link": "contents/Module_5/Presentation5.pptx"
+        "link": "contents/Module 05_Arm Cortex-A9 processor/Presentation5.pptx"
       },
 	  {
         "column": "exercises",
         "name": "Quiz 5",
-        "link": "contents/Module_5/Quiz5.docx"
+        "link": "contents/Module 05_Arm Cortex-A9 processor/Quiz5.docx"
       }
     ],
 	
@@ -105,12 +105,12 @@ var index =
 	  {
         "column": "modules",
         "name": "Module 6: AMBA AXI4 Bus Architecture",
-        "link": "contents/Module_6/Presentation6.pptx"
+        "link": "contents/Module 06_Arm Cortex-A9 processor/Presentation6.pptx"
       },
 	  {
         "column": "exercises",
         "name": "Quiz 6",
-        "link": "contents/Module_6/Quiz6.docx"
+        "link": "contents/Module 06_Arm Cortex-A9 processor/Quiz6.docx"
       }
     ],
 	
@@ -119,23 +119,23 @@ var index =
       {
         "column": "modules",
         "name": "Module 7: AXI4-Lite GPIO Peripheral and DDR memory controller",
-        "link": "contents/Module_7/Presentation7.pptx"
+        "link": "contents/Module 07_AXI4-Lite GPIO Peripheral and DDR memory controller/Presentation7.pptx"
       },
 	  {
         "column": "exercises",
         "name": "Quiz 7",
-        "link": "contents/Module_7/Quiz7.docx"
+        "link": "contents/Module 07_AXI4-Lite GPIO Peripheral and DDR memory controller/Quiz7.docx"
       },
 	  {
         "column": "exercises",
         "name": "Lab 7: AXI-Lite and GPIOs",
-        "link": "contents/Module_7/Lab7_manual.docx"
+        "link": "contents/Module 07_AXI4-Lite GPIO Peripheral and DDR memory controller/Lab7_manual.docx"
       },
 
       {
         "column": "files",
         "name": "Lab 7 Files",
-        "link": "contents/Module_7/lab_file/"
+        "link": "contents/Module 07_AXI4-Lite GPIO Peripheral and DDR memory controller/lab_file"
       }
     ],
 	
@@ -144,12 +144,12 @@ var index =
       {
         "column": "modules",
         "name": "Module 8: AXI UART and AXI4-Stream Peripherals",
-        "link": "contents/Module_8/Presentation8.pptx"
+        "link": "contents/Module 08_AXI UART and AXI4-Stream Peripherals/Presentation8.pptx"
       },
       {
         "column": "exercises",
         "name": "Quiz 8",
-        "link": "contents/Module_8/Quiz8.docx"
+        "link": "contents/Module 08_AXI UART and AXI4-Stream Peripherals/Quiz8.docx"
       }
     ],
 	
@@ -158,22 +158,22 @@ var index =
       {
         "column": "modules",
         "name": "Module 9: HDMI overview",
-        "link": "contents/Module_9/Presentation9.pptx"
+        "link": "contents/Module 09_HDMI overview/Presentation9.pptx"
       },
 	  {
         "column": "exercises",
         "name": "Quiz 9",
-        "link": "contents/Module_9/Quiz9.docx"
+        "link": "contents/Module 09_HDMI overview/Quiz9.docx"
       },
 	  {
         "column": "exercises",
         "name": "Lab 9: HDMI output",
-        "link": "contents/Module_9/Lab9_manual.docx"
+        "link": "contents/Module 09_HDMI overview/Lab9_manual.docx"
       },
       {
         "column": "files",
         "name": "Lab 9 Files",
-        "link": "contents/Module_9/lab_file/"
+        "link": "contents/Module 09_HDMI overview/lab_file"
       }
     ],
 	
@@ -182,12 +182,12 @@ var index =
 	  {
         "column": "modules",
         "name": "Module 10: HDMI input peripheral",
-        "link": "contents/Module_10/Presentation10.pptx"
+        "link": "contents/Module 10_HDMI input peripheral/Presentation10.pptx"
       },
       {
         "column": "exercises",
         "name": "Quiz 10",
-        "link": "contents/Module_10/Quiz10.docx"
+        "link": "contents/Module 10_HDMI input peripheral/Quiz10.docx"
       }
 	],
 	
@@ -197,12 +197,12 @@ var index =
       {
         "column": "modules",
         "name": "Module 11: System debugging",
-        "link": "contents/Module_11/Presentation11.pptx"
+        "link": "contents/Module 11_System debugging/Presentation11.pptx"
       },
       {
         "column": "exercises",
         "name": "Quiz 11",
-        "link": "contents/Module_11/Quiz11.docx"
+        "link": "contents/Module 11_System debugging/Quiz11.docx"
       }
     ],
 	
@@ -211,12 +211,12 @@ var index =
       {
         "column": "modules",
         "name": "Module 12: Image-Processing Application",
-        "link": "contents/Module_12/Presentation12.pptx"
+        "link": "contents/Module 12_Image-Processing Application/Presentation12.pptx"
       },
       {
         "column": "exercises",
         "name": "Quiz 12",
-        "link": "contents/Module_12/Quiz12.docx"
+        "link": "contents/Module 12_Image-Processing Application/Quiz12.docx"
       }
     ],
 	
@@ -225,7 +225,7 @@ var index =
       {
         "column": "modules",
         "name": "Module 13: Accelerate Image Processing using SIMD engine",
-        "link": "contents/Module_13/Presentation13.pptx"
+        "link": "contents/Module 13_Accelerate Image Processing using SIMD engine/Presentation13.pptx"
       }
     ],
 	
@@ -234,7 +234,7 @@ var index =
       {
         "column": "modules",
         "name": "Module 14: Accelerate Image Processing using FPGA hardware",
-        "link": "contents/Module_14/Presentation14.pptx"
+        "link": "contents/Module 14_Accelerate Image Processing using FPGA hardware/Presentation14.pptx"
       }
     ],
 	
