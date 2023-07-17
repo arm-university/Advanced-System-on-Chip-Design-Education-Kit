@@ -268,7 +268,7 @@
         {
             "title": "HDMI Input Peripheral, Module 10",
             "subject": ["arm", "fpga", "armv7", "hardware-designs", "cortex-a", "amba", "cortex-a9", "arm-cortex-a9", "soc-design", "system-on-chip-design", "zybo-z7-10"],
-            "type": "Lab",
+            "type": "Lecture",
             "format": "doc",
             "creator": "Brent Lei",
             "publisher": "Arm Education",
