@@ -22,6 +22,21 @@ Our Advanced System on Chip Design Education Kit equips your students with the s
 * Lab manual with solutions for faculty. Labs are based on low-cost yet powerful Arm-based hardware platforms donated by partners (subject to availability). 
 * **Prerequisites:** Basics of hardware description language (Verilog or VHDL), basic C and assembly programming.
 
+## Tools used
+
+The lab exercises in this course can be run on Windows and have been developed and tested using the hardware and software listed below. If you use alternatives, you may need to make adjustments to ensure the labs run successfully.
+
+Hardware: 
+- Diligent Zybo Z7-10 FPGA board
+- Monitor with HDMI support
+- 2 HDMI cables
+- USB A to micro USB Cable
+
+Software: 
+- Xilinx Vivado ML (2020.1)
+- Xilinx Vitis IDE (2021.1)
+- Arm Development Studio (Platinum 2021.b)
+
 ## Course Aim
 To produce students who can design, implement, and test an Arm Cortex-A-based SoCs on real FPGA hardware using high-level functional specifications, standard hardware description and software programming languages. 
 
